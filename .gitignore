@@ -1,0 +1,7 @@
+.git_install/*
+__pycache__/*
+*.pyc
+.env
+app.b64
+build_app.py
+
